@@ -2,5 +2,17 @@
 layout: misc
 title: Contact
 ---
+Contact us: Muhsen Altaee (Director)
 
-This theme is completely free and open source software. You may use it however you want, as it is distributed under the [MIT License](http://choosealicense.com/licenses/mit/). If you are having any problems, any questions or suggestions, feel free to [tweet at me](https://twitter.com/intent/tweet?text=My%question%about%Millennial%is:%&amp;via=paululele), or [file a GitHub issue](https://github.com/lenpaul/Millennial/issues/new).
+TELEPHONE : 011-964-770-964-0198 (Iraq)
+
+EMAIL :  mssnty@gmail.com
+
+ADDRESS: 600-HayAalmowaddafeen , Karbala, Iraq
+
+Rahim Alshamary 
+
+TELEPHONE : +1-316-655-8230 (USA)
+
+EMAIL: rahimalshamary@gmail.com
+

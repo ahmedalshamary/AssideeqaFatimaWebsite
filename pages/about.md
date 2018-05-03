@@ -3,4 +3,15 @@ layout: misc
 title: About
 ---
 
-Millennial is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused publishing platform for your publication site or blog. You can find everything you need to get started under documentation. For more information on how to install and use this theme, check out [the documentation]({{ site.github.url }}{% post_url 2016-10-10-getting-started %}).
+Established in August 12 2015 in Karbala, Iraq and registered as an NGO in Iraq. 
+
+Regiestered under Iraq NGO Office under license number 1k77658 , #2475
+
+Address: 600-HayAalmowaddafeen , Karbala, Iraq
+
+A 1000 sqaure meter house full furnished for 65 orphans under nine years who stay five days a week untill they finish their high school degree. 
+
+We help them with school, provide them food and medical attention, and offer them a place of comfort so that their lives will be less hectic.
+
+After they finish high school we help them attend college and help them with their studies there as well as finding jobs. 
+
